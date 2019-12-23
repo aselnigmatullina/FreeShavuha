@@ -1,0 +1,14 @@
+{
+  "name": "freelanceexchange-master",
+  "version": "1.0.0",
+  "description": "html5, css3, bootstrap4, ES6",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
